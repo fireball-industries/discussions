@@ -19,3 +19,5 @@ Thanks for being here! We welcome your ideas, suggestions, feedback, and questio
 
 This repo is not for submitting code — it’s for collaboration and cross-project discussion.
 
+Questions? Tag a maintainer or email compliance@fireballz.ai
+
