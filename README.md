@@ -9,3 +9,4 @@ This repo is a centralized space for **everyone working on Fireball projects** �
 - 🧠 Ask technical or strategic questions about our projects
 - 📣 Suggest new features, improvements, or report issues
 - 🔧 Share solutions, feedback, or challenges you're facing
+- 🤝 Engage with peers and Fireball team members in open discussions
