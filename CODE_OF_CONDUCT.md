@@ -16,3 +16,4 @@ We are committed to providing a welcoming, respectful, and inclusive environment
 
 ## 📢 Reporting
 
+If you observe or experience unacceptable behavior, please report it to: compliance@fireballz.ai
