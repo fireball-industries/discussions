@@ -4,4 +4,5 @@ Thanks for being here! We welcome your ideas, suggestions, feedback, and questio
 
 ## 📌 How to Participate
 
+- ✅ Use Discussions to ask questions or suggest ideas
 
