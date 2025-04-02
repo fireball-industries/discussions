@@ -11,3 +11,4 @@ We are committed to providing a welcoming, respectful, and inclusive environment
 ## 🚫 Unacceptable Behavior
 
 - Harassment or intimidation
+- Discrimination, hate speech, or personal attacks
