@@ -5,3 +5,5 @@ Welcome to the **Discussions** repository for **Fireball Industries** — your l
 This repo is a centralized space for **everyone working on Fireball projects** — from engineers and developers to partners and contributors — to connect, discuss issues, share progress, and spark ideas. 💬✨
 
 ## 💬 What You Can Do Here
+
+- 🧠 Ask technical or strategic questions about our projects
