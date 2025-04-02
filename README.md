@@ -27,3 +27,5 @@ We believe in community-driven innovation. Your participation helps shape scalab
 
 ---
 
+## ✅ Code of Conduct
+
