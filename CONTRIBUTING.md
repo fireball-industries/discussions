@@ -2,4 +2,6 @@
 
 Thanks for being here! We welcome your ideas, suggestions, feedback, and questions.
 
+## 📌 How to Participate
+
 
