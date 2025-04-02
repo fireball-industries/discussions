@@ -18,3 +18,6 @@ This repo is a centralized space for **everyone working on Fireball projects** �
 This repository complements our source code repositories. Use it to collaborate across repositories or discuss project-wide matters that aren’t tied to a specific codebase.
 
 ---
+
+## 📢 Join the Conversation
+
