@@ -12,3 +12,5 @@ We are committed to providing a welcoming, respectful, and inclusive environment
 
 - Harassment or intimidation
 - Personal attacks
+- Disruptive or disrespectful communication
+
