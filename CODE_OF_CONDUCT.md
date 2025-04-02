@@ -14,3 +14,5 @@ We are committed to providing a welcoming, respectful, and inclusive environment
 - Personal attacks
 - Disruptive or disrespectful communication
 
+## 📢 Reporting
+
