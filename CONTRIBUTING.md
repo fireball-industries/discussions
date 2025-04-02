@@ -21,3 +21,4 @@ This repo is not for submitting code — it’s for collaboration and cross-proj
 
 Questions? Tag a maintainer or email compliance@fireballz.ai
 
+Welcome to the Fireball community! 🔥
