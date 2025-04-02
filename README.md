@@ -38,3 +38,4 @@ We’re committed to respectful, inclusive, and professional interactions. Pleas
 
 If you’re here to help move Fireball forward — thank you! Please read our [Contributing Guidelines](./CONTRIBUTING.md) before posting or engaging.
 
+---
