@@ -8,3 +8,5 @@ We are committed to providing a welcoming, respectful, and inclusive environment
 - Use inclusive and supportive language
 - Assume good intent, and seek to resolve conflicts constructively
 
+## 🚫 Unacceptable Behavior
+
