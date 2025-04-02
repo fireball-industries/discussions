@@ -7,3 +7,4 @@ This repo is a centralized space for **everyone working on Fireball projects** �
 ## 💬 What You Can Do Here
 
 - 🧠 Ask technical or strategic questions about our projects
+- 📣 Suggest new features, improvements, or report issues
