@@ -31,3 +31,4 @@ We believe in community-driven innovation. Your participation helps shape scalab
 
 We’re committed to respectful, inclusive, and professional interactions. Please read and follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
+---
