@@ -21,3 +21,5 @@ This repository complements our source code repositories. Use it to collaborate 
 
 ## 📢 Join the Conversation
 
+We believe in community-driven innovation. Your participation helps shape scalable, secure, and groundbreaking manufacturing solutions.
+
