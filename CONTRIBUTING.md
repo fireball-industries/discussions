@@ -6,3 +6,4 @@ Thanks for being here! We welcome your ideas, suggestions, feedback, and questio
 
 - ✅ Use Discussions to ask questions or suggest ideas
 - 🐞 Report bugs through Issues on relevant code repositories
+- 💡 Reply to or like comments to support ideas you agree with
